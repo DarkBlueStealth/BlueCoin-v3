@@ -10,5 +10,6 @@ NEW:
 * and more
 
 ATM and miner will soon be uploaded
+so will a wiki
 so will an index page
 enjoy 
