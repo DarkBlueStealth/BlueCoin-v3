@@ -13,3 +13,5 @@ ATM and miner will soon be uploaded
 so will a wiki
 so will an index page
 enjoy 
+
+(disclamer: i never tested anything more than creating an account and mining one morsel, im not responsible if the entire server gets hacked because i forgot to sanitize some SQL injection, womp womp)
